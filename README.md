@@ -1,6 +1,21 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple login/register-page-app created with React js.
+This is just the Front-end of the app, no Back-end.
+
+Functionalities:
+
+Login with username and password,
+Create an account &
+Reset password
+
+Technologies:
+React js,
+HTML5,
+CSS3
+
+Packages & Libraries: 
+react-router-dom 
 
 ## Available Scripts
 
@@ -38,6 +53,21 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+Contributing
+
+Pull requests are welcome. Please feel free to submit an issue first to discuss what you would like to change.
+
+The process to start is simple, just make sure you have Node js installed in your computer.
+
+First you need to go to project's main directory which contains package.json file
+    git clone [Repository]
+
+    cd [Repository-Directory]
+
+    npm install
+
+    npm start
 
 ## Learn More
 
